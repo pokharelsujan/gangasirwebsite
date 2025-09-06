@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Kathmandu University</a>. Bhaktapur. Nepal. +977 9841755619 . 
 
 profile:
   align: right
